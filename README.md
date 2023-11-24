@@ -19,6 +19,12 @@ I’m currently learning Front-end Development with React.js.
 ## Contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amir2005Alipoor)
+<a href="https://t.me/Amir2005Alipoor" target="_blank">
+  <img src='https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white'/>
+</a>
+<a href="https://instagram.com/amir84alipoor" target="_blank">
+  <img src='https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/>
+</a>
 
 
 
