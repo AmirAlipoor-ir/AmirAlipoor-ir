@@ -1,6 +1,6 @@
 ### Hi there I’m Amir 👋
 
-I’m currently learning Front-end Development with React.js .
+I’m currently learning Front-end Development with Next.js .
 
 ## My Stack:
 
